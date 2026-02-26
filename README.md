@@ -1,36 +1,48 @@
 # Hi, I'm Mrinal 👋
+Data Scientist | GenAI Engineer | LLM Applications | ML Engineering
 
 ## 🚀 Data Analyst transitioning into AI & ML Engineering
 
-I have 2.5+ years of experience in data analytics and I am currently building skills in:
-
-- Machine Learning
-- Generative AI
-- Prompt Engineering
-- LLM Applications
+Data professional with 2.5+ years of experience in analytics, now building end-to-end ML and Generative AI systems. Focused on LLM applications, prompt engineering, and scalable ML pipelines.
 
 I am actively working on real-world AI projects and improving my engineering skills.
 
 ---
 
-## 🧠 Technical Skills
+3️⃣ Technical Stack Section
 
-### Programming
-- Python
-- SQL
+Structure it like:
 
-### Data Tools
-- Pandas
-- NumPy
-- Excel
-- Power BI
+🧠 Machine Learning
 
-### Machine Learning
-- Scikit-learn
-- Model Evaluation
-- Feature Engineering
+Scikit-learn
 
-### Generative AI
-- OpenAI APIs
-- Prompt Engineering
-- RAG (Learning Phase)
+XGBoost
+
+Feature Engineering
+
+Model Evaluation
+
+🤖 Generative AI & LLM
+
+OpenAI APIs
+
+Prompt Engineering
+
+RAG Pipelines
+
+Vector Databases
+
+LangChain
+
+📊 Data & Engineering
+
+Python
+
+SQL
+
+Pandas
+
+Google Sheets Automation
+
+Power BI / Tableau (if applicable)
